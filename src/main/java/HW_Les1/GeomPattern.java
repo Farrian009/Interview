@@ -55,6 +55,7 @@ class Triangle extends GeomPattern {
             int perimeter = a * 4;
         }
     }
+
 }
 
 
